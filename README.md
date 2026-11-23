@@ -7,16 +7,16 @@
 
 ##  Información del Proyecto
 * **Proyecto Propio:** Sistema de Gestión de Obras Públicas
-* **Proyecto Asignado:** [Nombre del proyecto asignado por el profesor]
+* **Proyecto Asignado:** 
 * **Gestor de Base de SGBD / Contenedor:** PostgreSQL 15 ejecutándose en Docker (`postgres_practica3`)
-* **Enlace del Repositorio / Fork:** [URL del repositorio en GitHub]
+* **Enlace del Repositorio / Fork:** 
 
 ---
 
 ##  Enlaces a los Issues de Propuestas de Mejora (Ejercicio 8)
-* **Propuesta de Naxxini Giovani Valdez Adame:** [Enlace al issue en GitHub sobre Historial y Calificación de Desempeño de Contratistas con IA]
-* **Propuesta de Malagon Granados Rene Alejandro:** [Enlace al issue en GitHub]
-* **Propuesta de Martinez Vazquez Alejandra:** [Enlace al issue en GitHub]
+* **Propuesta de Naxxini Giovani Valdez Adame:** 
+* **Propuesta de Malagon Granados Rene Alejandro:** 
+* **Propuesta de Martinez Vazquez Alejandra:** 
 
 ---
 
